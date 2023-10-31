@@ -13,5 +13,13 @@
 ### > Updating new and stored data in the file.
     
 
-![GitHub Octocat](https://cdn.hackr.io/uploads/topics_svg/c.svg)
-![GitHub Octocat](https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png)
+![GitHub Octocat]()
+
+![GitHub Octocat]()
+
+<table>
+  <tr>
+    <td><img src="https://cdn.hackr.io/uploads/topics_svg/c.svg" alt="Image 1"></td>
+    <td><img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png" alt="Image 2"></td>
+  </tr>
+</table>
