@@ -11,9 +11,7 @@
 
 ## Coming Soon Features ...!
 ### > Updating new and stored data in the file.
-
- 
-    ![C++](https://cdn.hackr.io/uploads/topics_svg/c.svg)
-    ![C](https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png)
     
 
+![GitHub Octocat](https://cdn.hackr.io/uploads/topics_svg/c.svg)
+![GitHub Octocat](https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png)
