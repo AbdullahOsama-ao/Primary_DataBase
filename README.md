@@ -16,8 +16,9 @@
 
 <table>
   <tr>
-    <td><img src="https://cdn.hackr.io/uploads/topics_svg/c.svg" alt="C -> Transitional language"></td>  <td></td> <!-- Empty column -->
+    <td><img src="https://cdn.hackr.io/uploads/topics_svg/c.svg" alt="C -> Transitional language"></td>  <td></td> <!-- Empty column -->  <td></td>  <td></td>  <td></td>  <td></td>
     <td><img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png" alt="C++ -> Mother of High-level-programming"></td>
+     <tr><!-- This is an empty row --></tr>
   </tr>
 </table>
 
