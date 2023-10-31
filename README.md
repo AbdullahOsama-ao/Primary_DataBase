@@ -12,9 +12,7 @@
 ## Coming Soon Features ...!
 ### > Updating new and stored data in the file.
 
-![C++ -> Mother of High-level-programming](https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png)
-![C -> Transitional language](https://icon2.cleanpng.com/20171220/dgw/letter-c-png-5a3a869353fec5.5541397315137849793441.jpg)
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png" alt="C++ -> Mother of High-level-programming" width="300" height="200">
-<img src="https://icon2.cleanpng.com/20171220/dgw/letter-c-png-5a3a869353fec5.5541397315137849793441.jpg" alt="C -> Transitional language" width="300" height="200">
+<img src="https://cdn.hackr.io/uploads/topics_svg/c.svg" alt="C -> Transitional language" width="300" height="200">
 
 
