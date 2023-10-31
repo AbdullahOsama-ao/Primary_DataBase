@@ -13,10 +13,6 @@
 ### > Updating new and stored data in the file.
     
 
-![GitHub Octocat]()
-
-![GitHub Octocat]()
-
 <table>
   <tr>
     <td><img src="https://cdn.hackr.io/uploads/topics_svg/c.svg" alt="Image 1"></td> <tr> </tr>
