@@ -13,28 +13,25 @@
 ### > Updating new and stored data in the file.
 
 
+
+<!DOCTYPE html>
 <html>
-  
 <head>
   <style>
-    .custom-image {
-      width: 100px; /* Set the desired width */
-      height: 100px; /* Maintain the aspect ratio */
+    .image-container {
+      display: inline-block;
     }
   </style>
 </head>
-  
 <body>
-  <div class = "custom-image">
-  <img src="https://cdn.hackr.io/uploads/topics_svg/c.svg" alt="Image 1">
-  <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png" alt="Image 1">
+  <div class="image-container">
+     <img src="https://cdn.hackr.io/uploads/topics_svg/c.svg" alt="Image 1">
+  </div>
+  <div class="image-container">
+    <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png" alt="Image 2">
   </div>
 </body>
-
 </html>
-
-
-
 
 
 
