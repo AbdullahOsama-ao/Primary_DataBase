@@ -24,12 +24,35 @@
 </table>
 -->
 
-.custom-image {
-  width: 200px; /* Set the desired width */
-  height: auto; /* Maintain the aspect ratio */
-}
+<html>
+  
+<head>
+  <style>
+    .custom-image {
+      width: 200px; /* Set the desired width */
+      height: auto; /* Maintain the aspect ratio */
+    }
+  </style>
+</head>
+  
+<body>
+  <img src="https://cdn.hackr.io/uploads/topics_svg/c.svg" alt="Image 1" class="custom-image">
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png" alt="Image 1" class="custom-image">
+</body>
 
-<div class = custom-image>
-  <img src="https://cdn.hackr.io/uploads/topics_svg/c.svg" alt="Image 1">
-  <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png" alt="Image 1">
-</div>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
