@@ -12,9 +12,6 @@
 ## Coming Soon Features ...!
 ### > Updating new and stored data in the file.
 
-
-
-<!DOCTYPE html>
 <html>
 <head>
   <style>
