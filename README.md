@@ -12,32 +12,9 @@
 ## Coming Soon Features ...!
 ### > Updating new and stored data in the file.
 
-<html>
-<head>
-  <style>
-    .image-container {
-      display: inline-block;
-    }
-  </style>
-</head>
-<body>
-  <div class="image-container">
+  <div>
      <img src="https://cdn.hackr.io/uploads/topics_svg/c.svg" alt="Image 1">
-  </div>
-  <div class="image-container">
     <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png" alt="Image 2">
   </div>
-</body>
-</html>
-
-
-
-
-
-
-
-
-
-
-
+    
 
