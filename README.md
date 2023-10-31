@@ -15,7 +15,7 @@
 
 
 <div style="display: flex;">
-  <div style="flex: 50%; padding: 10px;"><img src="[image1.jpg](https://cdn.hackr.io/uploads/topics_svg/c.svg)" alt="C -> Transitional language"></div>
+  <div style="flex: 50%; padding: 10px;"><img src="https://cdn.hackr.io/uploads/topics_svg/c.svg" alt="C -> Transitional language"></div>
   <div style="flex: 50%; padding: 10px;"><img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png" alt="C++ -> Mother of High-level-programming"></div>
 </div>
 
