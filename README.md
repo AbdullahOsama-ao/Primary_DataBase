@@ -12,11 +12,8 @@
 ## Coming Soon Features ...!
 ### > Updating new and stored data in the file.
 
-  <html>
-   <img src="https://cdn.hackr.io/uploads/topics_svg/c.svg" alt="Image 1">
-    <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png" alt="Image 2">
-    
-  </html>
-    
+ 
+    ![C++](https://cdn.hackr.io/uploads/topics_svg/c.svg)
+    ![C](https://brandslogos.com/wp-content/uploads/thumbs/c-logo-black-and-white.png)
     
 
